@@ -1,0 +1,1020 @@
+[ 2016-09-21T16:34:42+08:00 ] ::1 /atest/index.php/assets/css/bootstrap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001524s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007847s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:42+08:00 ] ::1 /atest/index.php/assets/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001415s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:43+08:00 ] ::1 /atest/index.php/assets/js/bootstrap.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001276s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:43+08:00 ] ::1 /atest/index.php/assets/js/sparkline.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001617s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:43+08:00 ] ::1 /atest/index.php/assets/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001356s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:43+08:00 ] ::1 /atest/index.php/assets/js/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001873s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:43+08:00 ] ::1 /atest/index.php/assets/css/theme.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001505s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:43+08:00 ] ::1 /atest/index.php/assets/js/jquery.masonry.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001230s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:43+08:00 ] ::1 /atest/index.php/assets/js/jquery.imagesloaded.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001423s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:43+08:00 ] ::1 /atest/index.php/assets/js/jquery.facybox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001168s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:43+08:00 ] ::1 /atest/index.php/assets/js/jquery.knob.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001426s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:43+08:00 ] ::1 /atest/index.php/assets/js/jquery.alertify.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010069s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:43+08:00 ] ::1 /atest/index.php/assets/js/fullcalendar.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001402s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:43+08:00 ] ::1 /atest/index.php/assets/js/jquery.dataTables.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001224s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:43+08:00 ] ::1 /atest/index.php/assets/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001230s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:43+08:00 ] ::1 /atest/index.php/assets/js/realm.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002009s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:43+08:00 ] ::1 /atest/index.php/assets/js/jquery.gritter.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001584s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:43+08:00 ] ::1 /atest/index.php/assets/css/alertify.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003740s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:44+08:00 ] ::1 /atest/index.php/assets/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001216s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:43+08:00 ] ::1 /atest/index.php/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001261s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-09-21T16:34:44+08:00 ] ::1 /atest/index.php/assets/img/avatars/07.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001332s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:44+08:00 ] ::1 /atest/index.php/assets/img/avatars/08.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002295s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:44+08:00 ] ::1 /atest/index.php/assets/img/avatars/11.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001349s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:44+08:00 ] ::1 /atest/index.php/assets/img/odinn.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004249s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:44+08:00 ] ::1 /atest/index.php/assets/img/avatars/12.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001345s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:44+08:00 ] ::1 /atest/index.php/assets/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008183s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:44+08:00 ] ::1 /atest/index.php/assets/img/avatars/09.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002928s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:44+08:00 ] ::1 /atest/index.php/assets/img/avatars/02.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001496s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:44+08:00 ] ::1 /atest/index.php/assets/img/avatars/01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003075s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:45+08:00 ] ::1 /atest/index.php/assets/img/avatars/03.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004964s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:45+08:00 ] ::1 /atest/index.php/assets/img/avatars/10.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019331s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:45+08:00 ] ::1 /atest/index.php/assets/img/avatars/04.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001508s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:45+08:00 ] ::1 /atest/index.php/assets/img/avatars/06.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001578s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:45+08:00 ] ::1 /atest/index.php/assets/img/avatars/05.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000124s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003942s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:45+08:00 ] ::1 /atest/index.php/assets/img/avatars/13.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004438s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:45+08:00 ] ::1 /atest/index.php/assets/js/jquery-ui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004022s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:45+08:00 ] ::1 /atest/index.php/assets/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002060s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:45+08:00 ] ::1 /atest/index.php/assets/js/bootstrap.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003102s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:45+08:00 ] ::1 /atest/index.php/assets/js/sparkline.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001407s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:46+08:00 ] ::1 /atest/index.php/assets/js/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001371s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:46+08:00 ] ::1 /atest/index.php/assets/js/jquery.dataTables.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007132s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:46+08:00 ] ::1 /atest/index.php/assets/js/jquery.masonry.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001339s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:46+08:00 ] ::1 /atest/index.php/assets/js/jquery.imagesloaded.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001750s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:46+08:00 ] ::1 /atest/index.php/assets/js/jquery.facybox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001168s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:46+08:00 ] ::1 /atest/index.php/assets/js/jquery.alertify.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001369s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:46+08:00 ] ::1 /atest/index.php/assets/js/jquery.knob.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002155s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:46+08:00 ] ::1 /atest/index.php/assets/js/fullcalendar.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002967s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:46+08:00 ] ::1 /atest/index.php/assets/js/jquery.gritter.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001440s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:46+08:00 ] ::1 /atest/index.php/assets/js/realm.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001411s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:34:47+08:00 ] ::1 /atest/index.php/assets/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005863s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:49+08:00 ] ::1 /atest/index.php/assets/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001602s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:49+08:00 ] ::1 /atest/index.php/assets/css/alertify.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002795s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:49+08:00 ] ::1 /atest/index.php/assets/css/theme.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001389s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:49+08:00 ] ::1 /atest/index.php/assets/css/bootstrap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000239s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007038s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:49+08:00 ] ::1 /atest/index.php/assets/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001400s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:49+08:00 ] ::1 /atest/index.php/assets/img/avatars/09.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.030912s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:49+08:00 ] ::1 /atest/index.php/assets/img/avatars/10.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005284s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:49+08:00 ] ::1 /atest/index.php/assets/img/avatars/11.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001437s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:49+08:00 ] ::1 /atest/index.php/assets/img/avatars/07.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002372s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:49+08:00 ] ::1 /atest/index.php/assets/img/avatars/03.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001713s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:49+08:00 ] ::1 /atest/index.php/assets/img/avatars/04.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003063s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:49+08:00 ] ::1 /atest/index.php/assets/img/avatars/12.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001560s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:49+08:00 ] ::1 /atest/index.php/assets/img/odinn.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001825s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:50+08:00 ] ::1 /atest/index.php/assets/img/avatars/08.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001318s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:50+08:00 ] ::1 /atest/index.php/assets/img/avatars/02.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008401s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:50+08:00 ] ::1 /atest/index.php/assets/img/avatars/01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.021198s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:50+08:00 ] ::1 /atest/index.php/assets/img/avatars/13.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001524s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:50+08:00 ] ::1 /atest/index.php/assets/img/avatars/06.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001512s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:50+08:00 ] ::1 /atest/index.php/assets/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002645s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:50+08:00 ] ::1 /atest/index.php/assets/js/jquery-ui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003031s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:50+08:00 ] ::1 /atest/index.php/assets/js/bootstrap.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003556s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:50+08:00 ] ::1 /atest/index.php/assets/js/sparkline.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002404s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:50+08:00 ] ::1 /atest/index.php/assets/js/jquery.dataTables.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001191s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:50+08:00 ] ::1 /atest/index.php/assets/js/jquery.masonry.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000781s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002010s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:50+08:00 ] ::1 /atest/index.php/assets/js/jquery.imagesloaded.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001948s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:50+08:00 ] ::1 /atest/index.php/assets/js/jquery.facybox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001426s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:50+08:00 ] ::1 /atest/index.php/assets/js/jquery.knob.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001372s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:50+08:00 ] ::1 /atest/index.php/assets/js/jquery.alertify.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004465s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:50+08:00 ] ::1 /atest/index.php/assets/js/fullcalendar.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001313s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:50+08:00 ] ::1 /atest/index.php/assets/js/realm.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001391s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:50+08:00 ] ::1 /atest/index.php/assets/js/jquery.gritter.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003753s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:50+08:00 ] ::1 /atest/index.php/assets/img/avatars/05.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005595s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:50+08:00 ] ::1 /atest/index.php/assets/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001328s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:50+08:00 ] ::1 /atest/index.php/assets/js/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001373s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:51+08:00 ] ::1 /atest/index.php/assets/img/avatars/10.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001515s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:51+08:00 ] ::1 /atest/index.php/assets/img/avatars/11.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001404s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:51+08:00 ] ::1 /atest/index.php/assets/img/avatars/06.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000129s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001447s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:51+08:00 ] ::1 /atest/index.php/assets/img/avatars/03.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001479s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:51+08:00 ] ::1 /atest/index.php/assets/img/avatars/04.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001646s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:51+08:00 ] ::1 /atest/index.php/assets/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.061709s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:51+08:00 ] ::1 /atest/index.php/assets/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001612s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:51+08:00 ] ::1 /atest/index.php/assets/js/jquery-ui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001549s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:51+08:00 ] ::1 /atest/index.php/assets/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001415s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:51+08:00 ] ::1 /atest/index.php/assets/js/bootstrap.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001423s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:51+08:00 ] ::1 /atest/index.php/assets/js/sparkline.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001428s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:51+08:00 ] ::1 /atest/index.php/assets/js/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002514s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:52+08:00 ] ::1 /atest/index.php/assets/js/jquery.dataTables.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002186s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:52+08:00 ] ::1 /atest/index.php/assets/js/jquery.masonry.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001615s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:52+08:00 ] ::1 /atest/index.php/assets/js/jquery.imagesloaded.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004886s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:52+08:00 ] ::1 /atest/index.php/assets/js/jquery.facybox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002300s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:52+08:00 ] ::1 /atest/index.php/assets/js/jquery.alertify.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001489s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:52+08:00 ] ::1 /atest/index.php/assets/js/jquery.knob.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001751s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:52+08:00 ] ::1 /atest/index.php/assets/js/fullcalendar.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002237s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:52+08:00 ] ::1 /atest/index.php/assets/js/jquery.gritter.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001381s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:52+08:00 ] ::1 /atest/index.php/assets/js/realm.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001486s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:52+08:00 ] ::1 /atest/index.php/assets/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001486s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:35:52+08:00 ] ::1 /atest/index.php/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001437s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-09-21T16:35:52+08:00 ] ::1 /atest/index.php/assets/ico/favicon.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002813s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:08+08:00 ] ::1 /atest/index.php/assets/css/bootstrap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001404s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:08+08:00 ] ::1 /atest/index.php/assets/css/theme.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001421s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:08+08:00 ] ::1 /atest/index.php/assets/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001466s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:08+08:00 ] ::1 /atest/index.php/assets/css/alertify.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002893s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:11+08:00 ] ::1 /atest/index.php/assets/css/theme.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002780s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:11+08:00 ] ::1 /atest/index.php/assets/css/bootstrap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005786s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:11+08:00 ] ::1 /atest/index.php/assets/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001335s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:11+08:00 ] ::1 /atest/index.php/assets/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001305s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:12+08:00 ] ::1 /atest/index.php/assets/js/jquery-ui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001335s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:12+08:00 ] ::1 /atest/index.php/assets/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011024s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:12+08:00 ] ::1 /atest/index.php/assets/css/alertify.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003619s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:12+08:00 ] ::1 /atest/index.php/assets/js/jquery.masonry.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001433s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:12+08:00 ] ::1 /atest/index.php/assets/js/jquery.dataTables.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001368s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:12+08:00 ] ::1 /atest/index.php/assets/js/jquery.alertify.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002314s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:12+08:00 ] ::1 /atest/index.php/assets/js/jquery.facybox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002164s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:12+08:00 ] ::1 /atest/index.php/assets/js/jquery-ui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001343s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:12+08:00 ] ::1 /atest/index.php/assets/js/sparkline.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001396s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:12+08:00 ] ::1 /atest/index.php/assets/js/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001296s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:12+08:00 ] ::1 /atest/index.php/assets/js/bootstrap.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001359s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:12+08:00 ] ::1 /atest/index.php/assets/js/jquery.knob.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002871s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:12+08:00 ] ::1 /atest/index.php/assets/js/fullcalendar.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001980s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:12+08:00 ] ::1 /atest/index.php/assets/js/jquery.gritter.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003807s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:12+08:00 ] ::1 /atest/index.php/assets/js/raphael-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001344s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:12+08:00 ] ::1 /atest/index.php/assets/js/realm.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001280s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:12+08:00 ] ::1 /atest/index.php/assets/js/bootstrap.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002764s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:12+08:00 ] ::1 /atest/index.php/assets/img/avatars/07.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004140s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:13+08:00 ] ::1 /atest/index.php/assets/img/avatars/08.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001514s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:13+08:00 ] ::1 /atest/index.php/assets/img/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002310s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:13+08:00 ] ::1 /atest/index.php/assets/img/avatars/09.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001331s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:13+08:00 ] ::1 /atest/index.php/assets/img/odinn.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.024811s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:13+08:00 ] ::1 /atest/index.php/assets/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004470s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:13+08:00 ] ::1 /atest/index.php/assets/img/avatars/11.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001398s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:13+08:00 ] ::1 /atest/index.php/assets/img/avatars/12.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001379s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:13+08:00 ] ::1 /atest/index.php/assets/img/avatars/02.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001198s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:13+08:00 ] ::1 /atest/index.php/assets/img/avatars/04.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001271s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:13+08:00 ] ::1 /atest/index.php/assets/img/avatars/03.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001277s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:13+08:00 ] ::1 /atest/index.php/assets/js/jquery.imagesloaded.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001925s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:13+08:00 ] ::1 /atest/index.php/assets/img/avatars/05.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001450s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:13+08:00 ] ::1 /atest/index.php/assets/img/avatars/01.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001492s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:13+08:00 ] ::1 /atest/index.php/assets/img/avatars/10.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005730s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:13+08:00 ] ::1 /atest/index.php/assets/img/avatars/13.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001260s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:13+08:00 ] ::1 /atest/index.php/assets/img/avatars/06.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000268s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004128s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:13+08:00 ] ::1 /atest/index.php/assets/js/sparkline.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002313s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:13+08:00 ] ::1 /atest/index.php/assets/js/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001487s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:13+08:00 ] ::1 /atest/index.php/assets/js/jquery.dataTables.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003972s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:13+08:00 ] ::1 /atest/index.php/assets/js/jquery.masonry.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001585s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:14+08:00 ] ::1 /atest/index.php/assets/js/jquery.imagesloaded.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001519s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:14+08:00 ] ::1 /atest/index.php/assets/js/jquery.facybox.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002301s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:14+08:00 ] ::1 /atest/index.php/assets/js/jquery.alertify.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001569s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:14+08:00 ] ::1 /atest/index.php/assets/js/jquery.knob.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001545s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:14+08:00 ] ::1 /atest/index.php/assets/js/fullcalendar.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.030743s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:14+08:00 ] ::1 /atest/index.php/assets/js/jquery.gritter.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001625s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:14+08:00 ] ::1 /atest/index.php/assets/js/realm.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001553s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:36:14+08:00 ] ::1 /atest/index.php/assets/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.031047s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:42:12+08:00 ] ::1 /atest/Public/assets/img/avatars/111.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001497s ]
+ERR: 无法加载模块:Public
+
+[ 2016-09-21T16:47:19+08:00 ] ::1 /atest/index.php/assets/img/avatars/07.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003653s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:47:19+08:00 ] ::1 /atest/index.php/assets/img/avatars/09.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001307s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:47:20+08:00 ] ::1 /atest/index.php/assets/img/avatars/04.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:47:20+08:00 ] ::1 /atest/index.php/assets/img/avatars/05.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002685s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:47:21+08:00 ] ::1 /atest/index.php/assets/img/avatars/07.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001431s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:47:21+08:00 ] ::1 /atest/index.php/assets/img/avatars/09.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001564s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-09-21T16:47:26+08:00 ] ::1 /atest/index.php/ui_features.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002157s ]
+ERR: 无法加载模块:Ui_features
+
